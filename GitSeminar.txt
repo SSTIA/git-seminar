@@ -1,0 +1,8 @@
+http://blogs.atlassian.com/2012/02/version-control-diffs-patches/
+http://www.omgubuntu.co.uk/2014/07/linus-torvalds-messy-desk-video
+https://backlogtool.com/git-guide/en/stepup/stepup1_5.html
+https://git-scm.com/about
+https://www.atlassian.com/git/tutorials/undoing-changes
+https://www.thinkful.com/learn/github-pull-request-tutorial/
+https://dzone.com/articles/merging-pull-request-github
+
